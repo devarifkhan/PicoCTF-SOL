@@ -9,4 +9,9 @@
 ### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/New%20ceaser.md">New Ceaser</a>
 ### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/The%20Numbers.md">The Numbers</a>
 ### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/mini%20RSA.md">mini RSA</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/13.md">13</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/Easy1.md">Easy1</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/No%20Padding%2C%20No%20Padding.md">No Padding, No Problem</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/ceaser.md">Ceaser</a>
+
 
