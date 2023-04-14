@@ -10,5 +10,3 @@
 ### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/The%20Numbers.md">The Numbers</a>
 ### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/mini%20RSA.md">mini RSA</a>
 
-
-
