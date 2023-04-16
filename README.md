@@ -22,9 +22,23 @@
 ### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/basic-mod2.md">Basic Mod 2</a>
 ### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/ReadMyCert.md">Read My Cert</a>
 ### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/credstuff.md">Cred Stuff</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/morse-code.md">Morse Code</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/rail-fence.md">Rail Fence</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/rotation.md">Rotation</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/spelling-quiz.md">Spelling Quiz</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/substitution0.md">Substitution 0</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/substitution1.md">Substitution 1</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/substitution2.md">Substitution 2</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/transposition-trial.md">Transposition Trial</a>
+### <a href="https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/vigenere.md">Vigenere</a>
 
 
 
 
 
-https://github.com/devarifkhan/PicoCTF-SOL/blob/main/Cryptography/Double_DES.md
+
+
+
+
+
+
